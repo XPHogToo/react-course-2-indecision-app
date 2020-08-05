@@ -5,6 +5,11 @@
 	padding: $m-size 0;
 }
 // BEM (block element modifier)
+.header__content {
+	align-items: center;
+	padding: $s-size 0;
+}
+
 .header__title {
 	font-size: $l-size;
 	margin: 0;
